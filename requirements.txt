@@ -1,0 +1,10 @@
+TTS
+pytube
+requests
+opencv-python
+moviepy
+fastapi
+torch
+uvicorn
+pandas
+pytube
